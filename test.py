@@ -1,6 +1,6 @@
 from linkedlist import LinkedList
 
-class Teste:
+class Test:
     if __name__ == '__main__':
         lista = LinkedList()
 
